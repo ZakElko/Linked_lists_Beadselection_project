@@ -1,4 +1,4 @@
- # Beautiful Beads Program - CISC 187 Chapter 18 (Linked Lists)
+ # Beautiful Beads Program - (Linked Lists)
 
 ## Author:
 Zakaria Elkhodary  
